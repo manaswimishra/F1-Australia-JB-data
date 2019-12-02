@@ -4,7 +4,7 @@ F1 Telemetry Data along with Analysis
 Main code:
 1. Corner Analysis- Jenson Button F1 Telemetry.ipynb
 2. Driver driving charateristics- F1 2010 - JB McLaren Telemetry, Australia- R Analysis and plots.Rmd
-The R-Markdown file can be viewed from the pdf version
+The R-Markdown file can be viewed from the pdf version "F1- JB 2010 Australian GP Analysis-R.pdf"
 
 Explaining the Variables
 1. timestamp - Time
